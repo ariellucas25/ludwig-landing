@@ -18,3 +18,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/16murJ2kYVje6RPZWVTWF5g
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## Deployment
+
+The project is configured to deploy automatically to GitHub Pages whenever changes are pushed to the `main` branch.
